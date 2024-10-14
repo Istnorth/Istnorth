@@ -16,7 +16,7 @@ Passionate about programming, I aim to deepen my expertise and take on new profe
 - **English Level**: B2
 
 ### 💼 My Projects:
-- **[Investment Management App](https://github.com/Istnorth/NorthVest)** (C#)
+- **[Investment Management App](https://github.com/Istnorth/North-Investments)** (C#)
    - A desktop application for managing investments.
    - Features: User registration and login, portfolio management, data analysis, automated reporting, and visualization of trends.
    - Purpose: To automate investment management, improving efficiency and reducing errors.
